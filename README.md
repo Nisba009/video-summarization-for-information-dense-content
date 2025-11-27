@@ -22,7 +22,7 @@ Another practical point is user behavior. People generally won't use a summariza
 
 1. **Extract Important Keyframes**
 
-    Uses OpenCV to extract potential keyframes, applies the EAsT text detector to find frames containing meaningful text, and uses perceptual hashing to remove similar frames.
+    Uses OpenCV to extract potential keyframes, applies the EAST text detector to find frames containing meaningful text, and uses perceptual hashing to remove similar frames.
 
 2. **Extract Audio, Transcribe, and Segment**
 
